@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+ <Style id="restaurantStyle">
+ <IconStyle id="restuarantIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon63.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Style id="barStyle">
+ <IconStyle id="barIcon">
+ <Icon>
+ <href>http://maps.google.com/mapfiles/kml/pal2/icon27.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="placemark3">
+ <name>Kapp's Pizza Bar &amp; Grill</name>
+ <description>191 Castro St, Mountain View, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.078918,37.393887</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark4">
+ <name>Round Table Pizza: Mountain View</name>
+ <description>570 N Shoreline Blvd, Mountain View, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.079353,37.402653</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark5">
+ <name>Tony &amp; Alba's Pizza &amp; Pasta</name>
+ <description>619 Escuela Ave, Mountain View, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.095528,37.394012</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark6">
+ <name>Oregano's Wood-Fired Pizza</name>
+ <description>4546 El Camino Real, Los Altos, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.114647,37.401726</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark7">
+ <name>Round Table Pizza: Sunnyvale-Mary-Central Expy</name>
+ <description>415 N Mary Ave, Sunnyvale, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.042030,37.390038</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark8">
+ <name>Giordano's</name>
+ <description>730 N Rush St, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.625412,41.895729</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark9">
+ <name>Filippi's Pizza Grotto</name>
+ <description>1747 India St, San Diego, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-117.168327,32.723831</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark10">
+ <name>Lou Malnati's Pizzeria</name>
+ <description>439 N Wells St, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.633926,41.890347</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark11">
+ <name>Sammy's Woodfired Pizza</name>
+ <description>770 4th Ave, San Diego, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-117.161179,32.713383</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark12">
+ <name>Casa Bianca Pizza Pie</name>
+ <description>1650 Colorado Blvd, Los Angeles, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-118.204605,34.139160</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark13">
+ <name>Parkway Grill</name>
+ <description>510 S Arroyo Pkwy, Pasadena, CA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-118.147301,34.137005</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark14">
+ <name>Pizzeria Paradiso</name>
+ <description>2029 P St NW, Washington, DC</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-77.045898,38.909649</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark15">
+ <name>Star Pizza</name>
+ <description>2111 Norfolk St, Houston, TX</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.411057,29.732452</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark16">
+ <name>Tutta Bella Neapolitan Pizzera</name>
+ <description>4918 Rainier Ave S, Seattle, WA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.284988,47.557705</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark17">
+ <name>Touche Pasta Pizza Pool</name>
+ <description>1425 NW Glisan St, Portland, OR</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.685577,45.526466</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark18">
+ <name>Piecora's New York Pizza</name>
+ <description>1401 E Madison St, Seattle, WA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.313988,47.614006</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark19">
+ <name>Pagliacci Pizza</name>
+ <description>550 Queen Anne Ave N, Seattle, WA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.356720,47.623943</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark20">
+ <name>Zeeks Pizza - Phinney Ridge</name>
+ <description>6000 Phinney Ave N, Seattle, WA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.354095,47.672668</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark21">
+ <name>Old Town Pizza</name>
+ <description>226 NW Davis St, Portland, OR</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.672684,45.524555</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark22">
+ <name>Zeeks Pizza - Belltown</name>
+ <description>419 Denny Way, Seattle, WA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.348000,47.618313</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark23">
+ <name>Escape From New York Pizza</name>
+ <description>622 NW 23rd Ave, Portland, OR</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-122.698509,45.527103</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark24">
+ <name>Big Fred's Pizza Garden</name>
+ <description>1101 S 119th St, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-96.098763,41.248661</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark25">
+ <name>Old Chicago</name>
+ <description>1111 Harney St, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.930679,41.256519</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark26">
+ <name>Sgt Peffer's Cafe Italian</name>
+ <description>1501 N Saddle Creek Rd, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.987816,41.273083</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark27">
+ <name>Mama's Pizza</name>
+ <description>715 N Saddle Creek Rd, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.980682,41.265884</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark28">
+ <name>Zio's New York Style Pizzeria</name>
+ <description>1213 Howard St, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.932022,41.255451</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark29">
+ <name>Boston's Restaurant &amp; Sports</name>
+ <description>620 E Disk Dr, Rapid City, SD</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-103.205223,44.106937</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark30">
+ <name>Zio's New York Style Pizzeria</name>
+ <description>7834 W Dodge Rd, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-96.056396,41.263248</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark31">
+ <name>La Casa Pizzaria</name>
+ <description>4432 Leavenworth St, Omaha, NE</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-95.979576,41.252399</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark32">
+ <name>Giordano's</name>
+ <description>730 N Rush St, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.625412,41.895729</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark33">
+ <name>Lou Malnati's Pizzeria</name>
+ <description>439 N Wells St, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.633926,41.890347</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark34">
+ <name>Piece Restaurant</name>
+ <description>1927 W North Ave, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.676125,41.910492</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark35">
+ <name>Connie's Pizza Inc</name>
+ <description>2373 S Archer Ave, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.641678,41.849213</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark36">
+ <name>Exchequer Restaurant</name>
+ <description>226 S Wabash Ave, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.626076,41.879189</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark37">
+ <name>Coco's By The Falls</name>
+ <description>5339 Murray Street, Niagara Falls, Ontario</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-79.082703,43.083553</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark38">
+ <name>Pompei</name>
+ <description>1531 W Taylor St, Chicago, IL</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-87.664780,41.869301</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark39">
+ <name>Lynn's Paradise Cafe</name>
+ <description>984 Barret Ave, Louisville, KY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-85.728539,38.236931</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark40">
+ <name>Otto Restaurant Enoteca Pizza</name>
+ <description>1 5th Ave, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-73.996323,40.732162</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark41">
+ <name>Grimaldi's</name>
+ <description>19 Old Fulton St, Brooklyn, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-73.993736,40.702515</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark42">
+ <name>Lombardi's</name>
+ <description>32 Spring St, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-73.995598,40.721676</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark43">
+ <name>John's Pizzeria</name>
+ <description>278 Bleecker St, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-74.003273,40.731705</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark44">
+ <name>John's Pizzeria</name>
+ <description>260 W 44th St, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-73.987740,40.758072</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark45">
+ <name>Burger Joint</name>
+ <description>2175 Broadway, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-73.981003,40.782398</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark46">
+ <name>Frank Pepe Pizzeria Napoletana</name>
+ <description>157 Wooster St, New Haven, CT</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-72.917046,41.302803</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark47">
+ <name>Adrianne's Pizza Bar</name>
+ <description>54 Stone St, New York, NY</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-74.010139,40.704479</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark48">
+ <name>Pizzeria Regina: Regina Pizza</name>
+ <description>11 1/2 Thacher St, Boston, MA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-71.056831,42.365337</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark49">
+ <name>Upper Crust</name>
+ <description>20 Charles St, Boston, MA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-71.069679,42.356606</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark50">
+ <name>Bertucci's Brick Oven Rstrnt</name>
+ <description>4 Brookline Pl, Brookline, MA</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-71.115311,42.331917</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark51">
+ <name>Aquitaine</name>
+ <description>569 Tremont St, Boston, MA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-71.072266,42.343636</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark52">
+ <name>Bertucci's Brick Oven Rstrnt</name>
+ <description>43 Stanhope St, Boston, MA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-71.073250,42.348297</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark53">
+ <name>Upper Crust</name>
+ <description>286 Harvard St, Brookline, MA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-71.122314,42.342857</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark54">
+ <name>Bertucci's Brick Oven Rstrnt</name>
+ <description>799 Main St, Cambridge, MA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-71.097214,42.363258</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark55">
+ <name>Bertucci's Brick Oven Rstrnt</name>
+ <description>22 Merchants Row, Boston, MA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-71.055473,42.359146</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark56">
+ <name>Vinnie Van Go-Go's</name>
+ <description>317 W Bryan St, Savannah, GA</description>
+ <styleUrl>#flowerStyle</styleUrl>
+ <Point>
+ <coordinates>-81.094994,32.081154</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark57">
+ <name>Domino's Pizza: Myrtle Beach</name>
+ <description>1706 S Kings Hwy # A, Myrtle Beach, SC</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-78.905144,33.674881</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark58">
+ <name>East of Chicago Pizza Company</name>
+ <description>3901 North Kings Highway Suite 1, Myrtle Beach, SC</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-78.855583,33.716099</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark59">
+ <name>Villa Tronco Italian Rstrnt</name>
+ <description>1213 Blanding St, Columbia, SC</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-81.036316,34.008049</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark60">
+ <name>Mellow Mushroom Pizza Bakers</name>
+ <description>11 W Liberty St, Savannah, GA</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-81.093697,32.074673</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark61">
+ <name>Andolinis Pizza</name>
+ <description>82 Wentworth St, Charleston, SC</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-79.934235,32.782330</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark62">
+ <name>Mellow Mushroom Pizza Bakers</name>
+ <description>259 E Broad St, Athens, GA</description>
+ <styleUrl>#barStyle</styleUrl>
+ <Point>
+ <coordinates>-83.374657,33.957802</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark63">
+ <name>Bucks Pizza of Edisto Beach Inc</name>
+ <description>114 Jungle Rd, Edisto Island, SC</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.297951,32.503971</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark64">
+ <name>Anthony's Coal Fired Pizza</name>
+ <description>2203 S Federal Hwy, Fort Lauderdale, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.136688,26.094671</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark65">
+ <name>Giordano's</name>
+ <description>12151 S Apopka Vineland Rd, Orlando, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-81.506226,28.389366</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark66">
+ <name>Pizza Rustica</name>
+ <description>863 Washington Ave, Miami Beach, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.133110,25.779058</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark67">
+ <name>Mama Jennie's Italian Restaurant</name>
+ <description>11720 Ne 2nd Ave, North Miami, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.194290,25.882782</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark68">
+ <name>Anthony's Coal Fired Pizza</name>
+ <description>17901 Biscayne Blvd, Aventura, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.148827,25.941116</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark69">
+ <name>Anthony's Coal Fired Pizza</name>
+ <description>4527 Weston Rd, Weston, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.362442,26.065395</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark70">
+ <name>Mario the Baker Pizza &amp; Italian Restaurant</name>
+ <description>13695 W Dixie Hwy, North Miami, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.156090,25.929741</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark71">
+ <name>Big Cheese Pizza</name>
+ <description>8080 SW 67th Ave, Miami, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-80.301109,25.696026</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark72">
+ <name>Ingleside Village Pizza</name>
+ <description>2396 Ingleside Ave, Macon, GA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-83.657410,32.853760</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark73">
+ <name>Ciao Bella Pizza Da Guglielmo</name>
+ <description>29 Highway 98 E, Destin, FL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-86.512093,30.395555</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark74">
+ <name>Papa John's Pizza</name>
+ <description>810 Russell Pkwy, Warner Robins, GA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-83.637077,32.593910</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark75">
+ <name>Papa John's Pizza: East Central Montgomery</name>
+ <description>2525 Madison Ave, Montgomery, AL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-86.273033,32.381123</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark76">
+ <name>Cici's Pizza</name>
+ <description>6268 Atlanta Hwy, Montgomery, AL</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-86.190674,32.382206</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark77">
+ <name>Papa John's Pizza</name>
+ <description>1210 E Jackson St, Thomasville, GA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-83.963425,30.849129</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark78">
+ <name>Papa John's Pizza</name>
+ <description>711 N Westover Blvd # G, Albany, GA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-84.223083,31.613970</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark79">
+ <name>Mellow Mushroom Pizza Bakers</name>
+ <description>6100 Veterans Pkwy, Columbus, GA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-84.955894,32.532078</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark80">
+ <name>Star Pizza</name>
+ <description>2111 Norfolk St, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.411057,29.732452</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark81">
+ <name>Star Pizza II</name>
+ <description>77 Harvard St, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.396042,29.770752</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark82">
+ <name>Brothers Pizzeria</name>
+ <description>1029 Highway 6 N # 100, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.643593,29.768337</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark83">
+ <name>11th Street Cafe Inc</name>
+ <description>748 E 11th St, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.388924,29.790794</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark84">
+ <name>California Pizza Kitchen</name>
+ <description>1705 Post Oak Blvd # A, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.461197,29.750172</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark85">
+ <name>Collina's Italian Cafe</name>
+ <description>3835 Richmond Ave, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.438965,29.732620</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark86">
+ <name>Barry's Pizza &amp; Italian Diner</name>
+ <description>6003 Richmond Ave, Houston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.484383,29.731430</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark87">
+ <name>Mario's Seawall Italian Restaurant</name>
+ <description>628 Seawall Blvd, Galveston, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-94.772598,29.304543</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark88">
+ <name>Campisi's Egyptian Restaurant</name>
+ <description>5610 E Mockingbird Ln, Dallas, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-96.771782,32.836510</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark89">
+ <name>Fat Joe's Pizza Pasta &amp; Bar</name>
+ <description>4721 W Park Blvd # 101, Plano, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-96.788910,33.027054</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark90">
+ <name>Saccone's Pizza</name>
+ <description>13812 N Highway 183, Austin, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-97.964661,29.569508</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark91">
+ <name>Fireside Pies</name>
+ <description>2820 N Henderson Ave, Dallas, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-96.784149,32.819763</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark92">
+ <name>Romeo's</name>
+ <description>1500 Barton Springs Rd, Austin, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-97.760025,30.261526</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark93">
+ <name>Sandella's Cafe</name>
+ <description>5910 N Macarthur Blvd, Irving, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-96.961189,32.892002</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark94">
+ <name>Mangia Chicago Stuffed Pizza</name>
+ <description>3500 Guadalupe St, Austin, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-97.739113,30.301542</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark95">
+ <name>Frank &amp; Angie's</name>
+ <description>508 West Ave, Austin, TX</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-97.750893,30.269394</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark96">
+ <name>Filippi's Pizza Grotto</name>
+ <description>1747 India St, San Diego, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-117.168327,32.723831</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark97">
+ <name>Pizzeria Bianco</name>
+ <description>623 E Adams St, Phoenix, AZ</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-112.065521,33.449375</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark98">
+ <name>Sammy's Woodfired Pizza</name>
+ <description>770 4th Ave, San Diego, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-117.161179,32.713383</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark99">
+ <name>Casa Bianca Pizza Pie</name>
+ <description>1650 Colorado Blvd, Los Angeles, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-118.204605,34.139160</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark100">
+ <name>Parkway Grill</name>
+ <description>510 S Arroyo Pkwy, Pasadena, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-118.147301,34.137005</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark101">
+ <name>California Pizza Kitchen</name>
+ <description>330 S Hope St, Los Angeles, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-118.252686,34.053329</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark102">
+ <name>B J's Pizza &amp; Grill</name>
+ <description>200 Main St # 101, Huntington Beach, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-118.001099,33.658058</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark103">
+ <name>B J's Restaurant &amp; Brewhouse</name>
+ <description>280 S Coast Hwy, Laguna Beach, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-117.783516,33.542091</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark104">
+ <name>Giuseppe's Depot Restaurant</name>
+ <description>10 S Sierra Madre St, Colorado Springs, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.828300,38.834549</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark105">
+ <name>Beau Jo's Pizza</name>
+ <description>2710 S Colorado Blvd, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.940704,39.667343</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark106">
+ <name>Pasquini's Pizzeria</name>
+ <description>1310 S Broadway, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.987465,39.692825</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark107">
+ <name>Fargos Pizza Co</name>
+ <description>2910 E Platte Ave, Colorado Springs, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.774422,38.839848</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark108">
+ <name>Old Chicago</name>
+ <description>1415 Market St, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.000504,39.748177</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark109">
+ <name>Sink</name>
+ <description>1165 13th St, Boulder, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.276237,40.008209</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark110">
+ <name>Ligori's Pizza &amp; Pasta</name>
+ <description>4421 Harrison Blvd, Ogden, UT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-111.949196,41.182732</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark111">
+ <name>Old Chicago</name>
+ <description>1102 Pearl St, Boulder, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.280991,40.017590</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark112">
+ <name>Boston's Restaurant &amp; Sports</name>
+ <description>620 E Disk Dr, Rapid City, SD</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-103.205223,44.106937</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark113">
+ <name>Chuck E Cheese's Pizza</name>
+ <description>100 24th St W # B, Billings, MT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-108.576286,45.771355</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark114">
+ <name>Space Aliens Grill &amp; Bar</name>
+ <description>1304 E Century Ave, Bismarck, ND</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-100.771736,46.838081</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark115">
+ <name>2nd Street Bistro</name>
+ <description>123 North 2nd Street, Livingston, MT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-110.561424,45.661015</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark116">
+ <name>Domino's Pizza</name>
+ <description>1524 S Broadway # 1, Minot, ND</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-101.296036,48.219658</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark117">
+ <name>American Classic Pizzeria</name>
+ <description>1744 Grand Ave, Billings, MT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-108.560204,45.784119</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark118">
+ <name>Godfather's Pizza</name>
+ <description>905 Main St, Billings, MT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-108.470757,45.815079</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark119">
+ <name>Papa John's Pizza</name>
+ <description>605 Main St, Billings, MT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-108.472122,45.810223</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark120">
+ <name>Aardvark Pizza &amp; Sub</name>
+ <description>304A Caribou St, Banff, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-115.570747,51.176487</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark121">
+ <name>Jasper Pizza Place</name>
+ <description>402 Connaught Dr, Jasper, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-118.079315,52.879086</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark122">
+ <name>Odyssey Pizza &amp; Steak House</name>
+ <description>3-3814 Bow Trail SW, Calgary, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-114.141251,51.045235</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark123">
+ <name>Basil's Pizza</name>
+ <description>2118 33 Avenue SW, Calgary, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-114.109901,51.023979</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark124">
+ <name>Castle Pizza &amp; Donair</name>
+ <description>7724 Elbow Drive SW, Calgary, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-114.083153,50.984497</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark125">
+ <name>Santa Lucia Italian Restaurant</name>
+ <description>714 8 St, Canmore, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-115.358734,51.089195</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark126">
+ <name>Tops Pizza &amp; Steak House No 3</name>
+ <description>7-5602 4 Street NW, Calgary, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-114.071457,51.101204</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark127">
+ <name>Evvia Restaurant</name>
+ <description>837 Main St, Canmore, AB</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-115.361771,51.089176</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark128">
+ <name>D&amp;#39;Bronx</name>
+ <description>3904 Bell St, Kansas City, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-94.606102,39.057182</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark129">
+ <name>Cicero's Restaurant &amp; Entrtnmt</name>
+ <description>6691 Delmar Blvd, St Louis, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-90.308441,38.656307</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark130">
+ <name>Hideaway Pizza</name>
+ <description>6616 N Western Ave, Oklahoma City, OK</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-97.529762,35.539116</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark131">
+ <name>Fortel's Pizza Den</name>
+ <description>7932 Mackenzie Rd, St Louis, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-90.320793,38.566441</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark132">
+ <name>Hideaway Pizza</name>
+ <description>7877 E 51st St, Tulsa, OK</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-95.889244,36.089897</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark133">
+ <name>Farotto's Catering</name>
+ <description>9525 Manchester Rd, Webster Groves, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-90.364433,38.609325</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark134">
+ <name>California Pizza Kitchen</name>
+ <description>1493 Saint Louis Galleria, St Louis, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-90.345947,38.633614</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark135">
+ <name>D'Bronx</name>
+ <description>2450 Grand Blvd # 124, Kansas City, MO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-94.581779,39.082722</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark136">
+ <name>Giuseppe's Depot Restaurant</name>
+ <description>10 S Sierra Madre St, Colorado Springs, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.828300,38.834549</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark137">
+ <name>Beau Jo's Pizza</name>
+ <description>2710 S Colorado Blvd, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.940704,39.667343</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark138">
+ <name>Pasquini's Pizzeria</name>
+ <description>1310 S Broadway, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.987465,39.692825</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark139">
+ <name>Fargos Pizza Co</name>
+ <description>2910 E Platte Ave, Colorado Springs, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-104.774422,38.839848</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark140">
+ <name>Old Chicago</name>
+ <description>1415 Market St, Denver, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.000504,39.748177</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark141">
+ <name>Sink</name>
+ <description>1165 13th St, Boulder, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.276237,40.008209</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark142">
+ <name>Old Chicago</name>
+ <description>1102 Pearl St, Boulder, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.280991,40.017590</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark143">
+ <name>Gondolier</name>
+ <description>1738 Pearl St, Boulder, CO</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-105.272949,40.019344</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark144">
+ <name>Ligori's Pizza &amp; Pasta</name>
+ <description>4421 Harrison Blvd, Ogden, UT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-111.949196,41.182732</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark145">
+ <name>Brick Oven Restaurant</name>
+ <description>111 E 800 N, Provo, UT</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-111.656319,40.244492</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark146">
+ <name>Zachary's Chicago Pizza</name>
+ <description>5801 College Ave, Oakland, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.251953,37.846180</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark147">
+ <name>Zachary's Chicago Pizza</name>
+ <description>1853 Solano Ave, Berkeley, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.278427,37.891407</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark148">
+ <name>Cheese Board Pizza</name>
+ <description>1512 Shattuck Ave, Berkeley, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.269272,37.879974</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark149">
+ <name>Goat Hill Pizza</name>
+ <description>300 Connecticut St, San Francisco, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.397614,37.762432</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark150">
+ <name>Tommaso Ristorante Italiano</name>
+ <description>1042 Kearny St, San Francisco, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.405373,37.797386</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark151">
+ <name>Little Star Pizza LLC</name>
+ <description>846 Divisadero St, San Francisco, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.438217,37.777519</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark152">
+ <name>Pauline's Pizza</name>
+ <description>260 Valencia, San Francisco, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.422241,37.768726</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark153">
+ <name>Villa Romana Pizzeria &amp; Rstrnt</name>
+ <description>731 Irving St, San Francisco, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.465584,37.764072</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark154">
+ <name>Amici's East Coast Pizzeria</name>
+ <description>69 E 3rd Ave, San Mateo, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.324722,37.563896</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark155">
+ <name>Amici's East Coast Pizzeria</name>
+ <description>226 Redwood Shores Pkwy, Redwood City, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.252258,37.520515</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark156">
+ <name>North Beach Pizza</name>
+ <description>240 E 3rd Ave, San Mateo, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.322639,37.565327</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark157">
+ <name>Patxi's Chicago Pizza</name>
+ <description>441 Emerson St, Palo Alto, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.163551,37.445148</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark158">
+ <name>Pizz'a Chicago</name>
+ <description>4115 El Camino Real, Palo Alto, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.126221,37.414104</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark159">
+ <name>California Pizza Kitchen</name>
+ <description>531 Cowper St, Palo Alto, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.158813,37.448074</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark160">
+ <name>Windy City Pizza</name>
+ <description>35 Bovet Rd, San Mateo, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.314522,37.551563</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark161">
+ <name>Applewood Pizza 2 Go</name>
+ <description>1001 El Camino Real, Menlo Park, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-122.181725,37.452965</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark162">
+ <name>Pizza Antica</name>
+ <description>334 Santana Row # 1065, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.947739,37.321793</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark163">
+ <name>Pizz'a Chicago</name>
+ <description>155 W San Fernando St, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.891678,37.333279</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark164">
+ <name>House of Pizza</name>
+ <description>527 S Almaden Ave, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.888168,37.326351</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark165">
+ <name>Amici's East Coast Pizzeria</name>
+ <description>225 W Santa Clara St, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.894043,37.334702</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark166">
+ <name>Fiorillo's Restaurant</name>
+ <description>638 El Camino Real, Santa Clara, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.942574,37.354603</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark167">
+ <name>Tony &amp; Alba's Pizza &amp; Pasta</name>
+ <description>3137 Stevens Creek Blvd, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.951645,37.323296</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark168">
+ <name>Giorgio's</name>
+ <description>1445 Foxworthy Ave, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.892891,37.274647</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark169">
+ <name>Round Table Pizza</name>
+ <description>4302 Moorpark Ave, San Jose, CA</description>
+ <styleUrl>#0Style</styleUrl>
+ <Point>
+ <coordinates>-121.977928,37.315903</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark12354">
+ <name>jirut ruengkong</name>
+ <description>nakon si tammarat</description>
+ <styleUrl>#restaurantStyleStyle</styleUrl>
+ <Point>
+ <coordinates>-123.123459,37.386337</coordinates>
+ </Point>
+ </Placemark>
+ <Placemark id="placemark600">
+ <name>aa</name>
+ <description>aa@a</description>
+ <styleUrl>#aStyle</styleUrl>
+ <Point>
+ <coordinates>0.000000,0.000000</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml> 

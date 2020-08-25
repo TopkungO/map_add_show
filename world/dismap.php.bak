@@ -1,0 +1,31 @@
+<div id="map"></div>
+    <div id="content-window"></div>
+    <script>
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat: 37.393887, lng: -122.078918}
+        });
+
+        var kmlLayer = new google.maps.KmlLayer({
+          url: 'http://www.sct.nstru.ac.th/test.kml',
+          suppressInfoWindows: true,
+          map: map
+        });
+
+        kmlLayer.addListener('click', function(kmlEvent) {
+          var text = kmlEvent.featureData.description;
+          showInContentWindow(text);
+        });
+
+        function showInContentWindow(text) {
+          var sidediv = document.getElementById('content-window');
+          sidediv.innerHTML = text;
+        }
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkMJLbHECzjiFUsV-XGmPrVV8RxvN8m4c&callback=initMap">
+    </script>
+  
